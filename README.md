@@ -1,2 +1,2 @@
 # TGLib4BVI
-## Tactile graphic Library for the Blind and Visaully Impaired
+## Tactile Graphic Library for the Blind and Visaully Impaired
